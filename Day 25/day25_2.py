@@ -1,0 +1,3 @@
+"""
+day 25 only had one code challenge, the second star was rewarded for completing every other star...
+"""
